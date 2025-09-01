@@ -1,2 +1,2 @@
-Live Demo Link
- https://sagarpawar10.github.io/Happy-Birthday-Website/
+Live Demo Link:
+ https://sagarpawar10.github.io/Birthday-Website/
